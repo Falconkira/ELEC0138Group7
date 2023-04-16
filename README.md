@@ -6,7 +6,7 @@ main_attack1.py file is just to call important functions.\
 Dataset_elec0138 contains the image data used for attack1, there is a specific description for data within that folder.
 
 ## Mitigation
-###Image Encryption
+### Image Encryption
 
 
-###Fake Image Detection
+### Fake Image Detection
