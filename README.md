@@ -1,10 +1,14 @@
 # ELEC0138Group7
 ## Attack
+### Facial Feature Extraction
 main_attack1.py and scr_attack1.py is for implementation of attack1.\
 src_attack1.py file contains all esential functions from data preprocessing, feature extraction, datasplit, model architecture and training.\
 main_attack1.py file is just to call important functions.\
 Dataset_elec0138 contains the image data used for attack1, there is a specific description for data within that folder.\
 shape_predictor_68_face_landmarks.dat is the library used in the implementation
+
+### Fake Image Generator
+To create the fake images, we are using the website https://thisxdoesnotexist.com/, so there is no code implementation for this part. 
 
 ## Mitigation
 ### Image Encryption
