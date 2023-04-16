@@ -7,6 +7,9 @@ Dataset_elec0138 contains the image data used for attack1, there is a specific d
 
 ## Mitigation
 ### Image Encryption
-
+AES_Encryption_Final.ipynb is the implementation for the image encryption.
 
 ### Fake Image Detection
+DeepFakeDetection.ipynb is the implementation of the best model for the detecting deep fake images.\
+The 140k Real and Fake Faces on Kaggle by XHLULU is used for training and testing. The link for the dataset is: https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces \
+Download the dataset from the link and add it to the same directory as the DeepFakeDetection.ipynb to run the code.
