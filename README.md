@@ -1,4 +1,4 @@
-# ELEC0138Group7
+# ELEC0138 Group7
 ## Attack
 ### Facial Feature Extraction
 main_attack1.py and scr_attack1.py is for implementation of attack1.\
