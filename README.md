@@ -12,7 +12,7 @@ To create the fake images, we are using the website https://thisxdoesnotexist.co
 
 ## Mitigation
 ### Image Encryption
-AES_Encryption_Final.ipynb is the implementation for the image encryption.
+AES_Encryption_Final.ipynb is the implementation for the image encryption. It requires the pycryptodome and PIL libraries. The program alllows for encryption and decrytpion in AES ecb and cbc modes. Inlcude the images for encryption (jpeg file) or decryption (binary file) in the same repository as AES_Encryption_Final.ipynb and input the file path when prompted by the program. For best results, it is recommended to run the program in google collaboratory as it was written and tested on it.
 
 ### Fake Image Detection
 DeepFakeDetection.ipynb is the implementation of the best model for the detecting deep fake images.\
